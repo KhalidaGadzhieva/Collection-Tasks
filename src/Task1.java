@@ -2,7 +2,7 @@ import com.sun.source.tree.BreakTree;
 
 import java.util.Set;
 import java.util.TreeSet;
-
+//subset headset tailset methodlarin bilirem, sadece bilmedim ozumuz yazmaliyiq yoxsa methoddan istifade etmeliyik ona gore methodlari ozum yazdim
 public class Task1{
     public static void main(String[] args) {
         Set<Integer> integerSet= new TreeSet<>();
